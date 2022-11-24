@@ -73,7 +73,7 @@ int main()
      cout<<"\nSorted ";
      b.disp();
      cout<<"\nEnter ele : ";
-     //cin>>s; cout<<s;
+     //cin>>s;
      s=  1 + rand() % 100 ;
      cout<<s;
      b.search();  
